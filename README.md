@@ -25,5 +25,5 @@ let A = "I like cheese."
 let B = "It is raining"
 let t = 10
 let i = 100
-wilnt(wilnt(wilnt(wilnt(wilnt(A, B, t, i), wilnt(A, B, t, i)),wilnt(A, B, t, i),wilnt(A, B, t, i)), wilnt(A, B, t, i)))
+let c = wilnt(wilnt(wilnt(wilnt(A, B, t, i), wilnt(A, B, t, i), t, i), wilnt(A, B, t, i), wilnt(A, B, t, i)), wilnt(A, B, t, i))
 ```
